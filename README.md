@@ -87,6 +87,7 @@ is actually valid and then calls print_matrix_size() (futher info:
 'matrices_output' files) to print the matrix's dimensions.
 
 **Time complexity:  O(1)**
+
 **Space complexity: O(1)**
 
 ### 5. Subtask #3 - Printing a matrix's content (octave_task3())
@@ -157,6 +158,7 @@ have needed to clone (copy) them, which would have risen the complexity to
 O(nmNlogN), EXTREMLY slow!
 
 **Time complexity:**  O(NlogN) (very happy with the result!)
+
 **Space complexity: O(N)**
 
 ### 9. Subtask #7 - Transposing a matrix (octave_task7())
